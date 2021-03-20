@@ -2,7 +2,7 @@
 <server name="VOIP3 OFFICIAL" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="34.101.189.220" port="64738" region="ID" url="http://mtda.online" token=""/>
 <server name="SERVER MASIH KOSONG 1" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="tunggu.release" port="55555" region="ID" url="http://mtda.online" token=""/>
 <!--
- <server name="SERVER MASIH KOSONG 2" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="tunggu.release" port="64778" region="ID" url="http://mtda.online" token=""/> 
+ <server name="SERVER MASIH KOSONG 2" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="cooming.soon" port="64778" region="ID" url="http://mtda.online" token=""/> 
 -->
 
 </servers>
