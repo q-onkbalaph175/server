@@ -1,7 +1,7 @@
 <servers>
 <server name="VOIP3" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="34.101.189.220" port="64738" region="ID" url="http://mtda.online" token=""/>
 <server name="NGAJI ONLINE" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="147.139.188.40" port="64739" region="ID" url="http://mtda.online" token=""/>
-<server name="SERVER MASIH KOSONG 2" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="cooming.soon" port="647641" region="ID" url="http://mtda.online" token=""/> 
+<server name="SERVER MASIH KOSONG " ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="cooming.soon" port="647641" region="ID" url="http://mtda.online" token=""/> 
 
 
 </servers>
