@@ -1,6 +1,6 @@
 <servers>
 <server name="INTERKOM TEGAL" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="147.139.188.40" port="64739" region="ID" url="http://mtda.online" token=""/>
-<server name="SERVER MASIH KOSONG " ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="cooming.soon" port="647641" region="ID" url="http://mtda.online" token=""/> 
+<server name="VOIP3" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="147.139.195.43" port="64738" region="ID" url="http://voip3.weebly.com" token=""/> 
 
 
 </servers>
