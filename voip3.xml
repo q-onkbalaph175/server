@@ -1,5 +1,5 @@
 <servers>
-<server name="NUSANTARA" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="8.215.31.3" port="64739" region="ID" url="http://mtda.online" token=""/>
+<server name="VANZ RADIO NUSANTARA" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="8.215.31.3" port="64739" region="ID" url="http://mtda.online" token=""/>
 <server name="PRIVAT SERVER" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="147.139.195.43" port="64737" region="ID" url="http://voip3.weebly.com" token=""/> 
 <server name="SERVER KOSONG" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="146.139.199.64" port="64730" region="ID" url="http://interkomtegal.weebly.com" token=""/> 
 
