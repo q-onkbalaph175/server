@@ -1,7 +1,7 @@
 <servers>
 
 <server name="MUMLA INDONESIA" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="101.50.3.198" port="64738" region="ID" url="http://voip3.weebly.com" token=""/> 
-<server name="RKN SERVER" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="8.219.165.175" port="64730" region="ID" url="http://interkomtegal.weebly.com" token=""/> 
+<server name="RKN SERVER" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="8.219.165.175" port="64738" region="ID" url="http://interkomtegal.weebly.com" token=""/> 
 
 
 </servers>
