@@ -1,7 +1,6 @@
 <servers>
 
 <server name="RKN New" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="149.129.220.199" port="64731" region="ID" url="" token=""/>
-
 <server name="RKN official" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="103.63.24.118" port="64730" region="ID" url="" token=""/>
 
 
